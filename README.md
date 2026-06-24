@@ -1,6 +1,6 @@
-<H1 align="center">MojoLauncher</H1>
+<H1 align="center">javrock</H1>
 
-<a href="./README_RU.md">Readme на русском</a>
+<a href="./README_RU.md">##not original fork of mojo launcher</a>
 
 <img src="./app_pojavlauncher/src/main/assets/pojavlauncher.png" align="left" width="150" height="150" alt="MojoLauncher logo">
 
